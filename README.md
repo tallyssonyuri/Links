@@ -4,12 +4,15 @@ Este projeto consiste no desenvolvimento de um aplicativo gerenciador de links p
 
 ## Funcionalidades
 
-- **Em desenvolvimento**
-
+- **Salvar Links**: Para uso futuro do usuário.
+- **Sepração p/ categorias**: Para organização dos dados salvos
+- **Excluir**: Deletar links que não serão mais utilizados
+  
 ## Tecnologias Utilizadas
 
 - **React Native**: Para desenvolvimento do aplicativo móvel.
 - **Expo Router**: Para gerenciamento de rotas.
+- **TypeScript**: Para maior segurança e manutenção do código.
 
 # Objetivos
 
